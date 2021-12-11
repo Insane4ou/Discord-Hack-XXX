@@ -1,0 +1,24 @@
+1.7 [STABLE] - 2019:
+A major change to the token grabber has been made: it now gets sent by a discord webhook.
+The preview available when making a theme has been improved on heavily, to make it look more like the casual DiscordHaxx UI.
+An option to add tokens not from a list, but just from text has been added.
+The "recover" button has been removed from the "Tokens" tab.
+Heavy optimizations towards DiscordHaxx Shield, to make it faster, and so therefor attacks can be started off much quicker.
+The settings now use JSON, which is gonna make them a lot more stable.
+Small changes to the directories.
+Other minor UI changes.
+
+1.7(.1) [BETA] - 2019:
+The token grabber now no longer shows a console, but instead just runs completely in the background.
+The token puller has been made easier to use, because it now shows a dialog at the start where the user can choose a path to the database file.
+Small optimizations towards the attacks.
+
+1.7 [BETA] - 2019:
+Proxy support is now here, meaning that you can use proxies for the different attacks.
+The token grabbing feature has been added.
+You can now log into tokens, and view their information.
+Partitions are now removed, because of them basically being useless.
+Multiple bug fixes
+Minor UI changes.
+More coming in the stable/official release :).
+Also special thanks to TestSubject1029 and Jenz for testing the beta version through.
